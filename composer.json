@@ -1,0 +1,8 @@
+{
+  "name": "mwdelaney/sample-meta-package",
+  "version": "1.0.0",
+  "type": "metapackage",
+  "require": {
+      "wp-bootstrap/wp-bootstrap-navwalker": "~4.1"
+  }
+}
