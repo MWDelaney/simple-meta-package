@@ -1,5 +1,5 @@
 {
-  "name": "mwdelaney/sample-meta-package",
+  "name": "mwdelaney/simple-meta-package",
   "version": "1.0.0",
   "type": "metapackage",
   "require": {
